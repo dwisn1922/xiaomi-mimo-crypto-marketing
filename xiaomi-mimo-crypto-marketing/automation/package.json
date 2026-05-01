@@ -1,0 +1,12 @@
+{
+  "name": "xiaomi-mimo-crypto-marketing-os",
+  "version": "1.0.0",
+  "description": "Crypto marketing operating system for Xiaomi MiMo community, content, and KOL management.",
+  "type": "module",
+  "scripts": {
+    "generate:week": "node generate-week.js",
+    "report:sample": "node report-sample.js"
+  },
+  "license": "MIT",
+  "dependencies": {}
+}
